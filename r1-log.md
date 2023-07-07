@@ -1,6 +1,6 @@
-# #100DaysOfCode Log - Round 1 - [Shai DLC]
+# #100DaysOfCode Log - Round 1 - []
 
-The log of my #100DaysOfCode challenge. Started on [1st September].
+The log of my #100DaysOfCode challenge. Started on [].
 
 ## Log
 
